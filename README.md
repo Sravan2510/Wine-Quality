@@ -22,7 +22,7 @@ This project predicts the quality of wine using various machine learning algorit
 
 1. Clone the repository**
    ```bash
-   git clone https://github.com/Sravan2510/Wine_Quality_Prediction.git
+   git clone https://github.com/Sravan2510/Wine-Quality.git
    cd Wine_Quality_Prediction
 
 2. Install dependencies
