@@ -32,5 +32,3 @@ This project predicts the quality of wine using various machine learning algorit
 3. Launch Jupyter Notebook
     ```bash
     jupyter notebook ML.ipynb
-
-
