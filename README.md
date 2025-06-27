@@ -20,15 +20,19 @@ This project predicts the quality of wine using various machine learning algorit
 
 ## 🚀 How to Run
 
-1. Clone the repository**
+1. Clone the Repository
    ```bash
    git clone https://github.com/Sravan2510/Wine-Quality.git
-   cd Wine_Quality_Prediction
+   cd Wine-Quality
 
 2. Install dependencies
     ```bash
     pip install -r requirements.txt
 
-3. Launch Jupyter Notebook
+3. Install Jupyter Notebook
+    ```bash
+    pip install notebook
+
+4. Launch Jupyter Notebook
     ```bash
     jupyter notebook ML.ipynb
